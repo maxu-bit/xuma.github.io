@@ -88,4 +88,32 @@ Conference Publications
 *	Bo Tang, Jun Tang, Yingning Peng. Research on deception jamming for countering ISAR. Proceedings of IET international radar conference, 2009,Guilin. 
 *	Bo Tang, Jun Tang, Yingning Peng, Xiutan Wang. A new method for evaluation of jamming effect on ISAR. Proceedings of Asia-Pacific Conference on Synthetic Aperture Radar, 2009: 531-534.
 
+Service
+----------
+* Member, IEEE
+* Technical Program Committee (TPC) Member of IEEE radar conference (2020)
+* Reviewer for 
+  * IEEE Signal Processing Magazine
+  * IEEE Transactions on Signal Processing
+  * IEEE Transactions on Geoscience and Remote Sensing
+  * IEEE Journal of Selected Topics in Signal Processing
+  * IEEE Transactions on Vehicle Technology
+  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  * IEEE Signal Processing Letters
+  * IEEE Communication Letters
+  * IEEE Geography and Remote Sensing Letters
+  * Signal Processing
+  * IET Radar, Sonar & Navigation
+  * IET Signal Processing
+  * IET Communication
+  * Electronic Letters
+  * EURASIP Journal on advances in Signal Processing
+  * International Journal of Antenna Propagation
+  * International Journal of Distributed Sensor Networks
+  * Progress in Electromagnetic Research
+  * Frontiers of Information Technology & Electronic Engineering
+  * IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM)
+  * IEEE GlobeComm
+  * IEEE International Conference on Ultra-wideband (ICUWB)
+  * IEEE International Workshop On Signal Processing Advances In Wireless Communications (SPAWC)
 
