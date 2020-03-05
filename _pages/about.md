@@ -37,6 +37,10 @@ Awards
 * Bronze Medal, China Mathematics Olympiad, 2002.
 * First-class Prize, China National Mathematics Olympiad, 2001.
 
+Book Chapters
+-----
+Bo Tang, Jun Tang. Relative entropy based waveform design for MIMO radar, in Radar Waveform Design based on Optimization Theory (edited by Antonio De Maio, Guolong Cui, Alfonso Farina & Jian Li). London: The Institution of Engineering and Technology, 2020.
+
 Selected Journal Publications
 ------
 *	J. Liu, W. Liu, B. Tang, and D. Orlando, Persymmetric Adaptive Detection in Subspace Interference Plus Gaussian Noise, Signal Processing, 2020, 167:107316.
