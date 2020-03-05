@@ -101,7 +101,7 @@ Service
   * IEEE Transactions on Signal Processing
   * IEEE Transactions on Geoscience and Remote Sensing
   * IEEE Journal of Selected Topics in Signal Processing
-  * IEEE Transactions on Vehicle Technology
+  * IEEE Transactions on Vehicular Technology
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Signal Processing Letters
   * IEEE Communication Letters
