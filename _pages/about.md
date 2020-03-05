@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:  "Dr. Bo Tang"
+title:  "Welcome to Bo's Website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,15 +24,3 @@ Working Experience
 * Associate Professor, College of Electronic Engineering, National University of Defense Technology, Hefei, China, 2017 to present
 * Assistant Professor, Division of Information Engineering, Electronic Engineering Institute, Hefei, China, 2011-2017 
 * Visiting Associate Professor, Department of Information Technology, Uppsala University, Uppsala, Sweden, 2019.08 to 2019.10
-
-Awards
-------
-* Youth Innovation Award, National University of Defense Technology, 2018.
-* Elected to the Young Elite Scientist Program of China in 2017.
-* Anhui Provincial Natural Science Award, 2016.
-* Phd Student Innovation Program, Tsinghua University, 2010.
-* First Class Scholarship for Overall Merit, Tsinghua University, 2010.
-* First Class Scholarship for Overall Merit, Tsinghua University, 2009.
-* Best Paper Award, Phd students forum of Tsinghua University, 2009.
-* Bronze Medal, China Mathematics Olympiad, 2002.
-* First-class Prize, China National Mathematics Olympiad, 2001.
