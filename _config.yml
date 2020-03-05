@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Bo Tang" # / Site Title
+title                    : "Dr. Bo Tang's Personal Website" # / Site Title
 title_separator          : "-"
 name                     : &name "Bo Tang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Bo Tang"
+  name             : #"Dr. Bo Tang"
   avatar           : "BoVisa.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
