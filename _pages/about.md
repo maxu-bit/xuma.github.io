@@ -12,14 +12,14 @@ redirect_from:
 
 A Short Biography
 ------
-Bo Tang was born in Linchuan, Jiangxi Province, China, in 1985. He received the B.S. and Ph.D. degrees in electrical engineering from Tsinghua University, Beijing, China, in 2006 and 2011, respectively. From July 2011 to June 2017, he was with the Electronic Engineering Institute, Hefei, China, as an Assistant Professor. Since July 2017, he has been with the College of Electronic Engineering, National University of Defense Technology,Hefei, China, where he is currently an Associate Professor. His research interests include array signal processing, MIMO systems and waveform design for active sensing systems.
+Bo Tang was born in Linchuan, Jiangxi Province, China, in 1985. He received the B.S. and Ph.D. degrees in electrical engineering from Tsinghua University, Beijing, China, in 2006 and 2011, respectively. From July 2011 to June 2017, he was with the Electronic Engineering Institute, Hefei, China, as an Assistant Professor. Since July 2017, he has been with the College of Electronic Engineering, National University of Defense Technology, Hefei, China, where he is currently an Associate Professor. His research interests include array signal processing, MIMO systems and waveform design for active sensing systems.
 
 Education
 ------
 * Ph.D, Electrical Engineering, Tsinghua University, Beijing, China, 2011
 * B.Sc., Electrical Engineering, Tsinghua University, Beijing, China, 2006
 
-Professional Experience
+Working Experience
 ------
 * Associate Professor, College of Electronic Engineering, National University of Defense Technology, Hefei, China, 2017 to present
 * Assistant Professor, Division of Information Engineering, Electronic Engineering Institute, Hefei, China, 2011-2017 
@@ -66,5 +66,20 @@ Selected Journal Publications
 31.	Bo Tang, Jun Tang, Yingning Peng. Convergence Rate of LSMI in Amplitude Heterogeneous Clutter Environment. IEEE Signal Processing Letters, 2010, 17(5):481-484. 
 
 
+Conference Publications
+------
+[1]	Bo Tang, Wenjie Huang, Jian Li. Slow-Time Coding For Mutual Interference Mitigation. Proceedings of 43rd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018, Calgary, Canada.
+[2]	Bo Tang, Ning Zhang, Shuo Zhang, Zhongrui Huang. MMSE-Based Waveform Design For Distributed MIMO Radar In Spectrally Crowded Environments. Proceedings of IET international radar conference, 2018, Nanjing.
+[3]	Zhongrui Huang, Bo Tang, Shuo Zhang. Sequential Optimization of Orthogonal Waveform for MIMO Radar. Proceedings of IET international radar conference, 2018, Nanjing.
+[4]	Bo Tang, Jun Tang. Robust waveform Design of Wideband Cognitive Radar For Extended Target Detection. Proceedings of 41st IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2016, Shanghai.
+[5]	Bo Tang, Yu Zhang, Jun Tang. Computationally Efficient Waveform Optimization for MIMO Radar Space Time Adaptive Processing. CIE International radar conference, 2016, Guangzhou.
+[6]	Yangzhong Zhang, Yu Zhang, Bo Tang. Persymmetric adaptive detection of subspace signals in compound-Gaussian clutter. CIE International radar conference, 2016, Guangzhou.
+[7]	Bo Tang, Jun Tang, Yu Zhang. MIMO Radar Waveform Design for Detection of Rician Targets. Proceedings of IET international radar conference, 2015, Hangzhou. （EI）
+[8]	Bo Tang, Jun Tang, Yingning Peng. Estimation of Transition Range Bin in Clutter Edge for Space Time Adaptive Processing. CIE International radar conference, 2011, Chengdu. 
+[9]	Xiaowei Tang, Jun Tang, Bo Tang, et al. A New Electronic Reconnaissance Technology for MIMO Radar. CIE International radar conference, 2011, Chengdu. 
+[10]	Jun Tang, Bo Tang, Lizhong Zheng, Target Model and Waveform Design in MIMO radar. IEEE radar conference, 2011, Kansas City.
+[11]	Bo Tang, Zhikun Ma, Jun Tang. Cramer-Rao Bound for Angle Estimation with Passive Synthetic Array. Proceedings of International Conference on Computer and Information Application, 2010, Tianjin. 
+[12]	Bo Tang, Jun Tang, Yingning Peng. Research on deception jamming for countering ISAR. Proceedings of IET international radar conference, 2009,Guilin. 
+[13]	Bo Tang, Jun Tang, Yingning Peng, Xiutan Wang. A new method for evaluation of jamming effect on ISAR. Proceedings of Asia-Pacific Conference on Synthetic Aperture Radar, 2009: 531-534.
 
 
