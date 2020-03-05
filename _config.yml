@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Bo Tang's Personal Website" # / Site Title
+title                    : "HomePage" # / Site Title
 title_separator          : "-"
 name                     : &name "Bo Tang"
 description              : &description "personal description"
