@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:  "Homepage"
+title:  "Dr. Bo Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
