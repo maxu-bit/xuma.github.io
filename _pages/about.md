@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:  ""
+title:  "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,6 +30,7 @@ Awards
 * Youth Innovation Award, National University of Defense Technology, 2018.
 * Elected to the Young Elite Scientist Program of China in 2017.
 * Bronze Medal, China Mathematics Olympiad, 2002.
+* First-class Prize, China National Mathematics Olympiad, 2001.
 
 Selected Journal Publications
 ------
