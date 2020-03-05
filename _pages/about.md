@@ -16,25 +16,20 @@ Bo Tang was born in Linchuan, Jiangxi Province, China, in 1985. He received the 
 
 Education
 ------
-Ph.D, Electrical Engineering, Tsinghua University, Beijing, China, 2011
-
-B.Sc., Electrical Engineering, Tsinghua University, Beijing, China, 2006
+* Ph.D, Electrical Engineering, Tsinghua University, Beijing, China, 2011
+* B.Sc., Electrical Engineering, Tsinghua University, Beijing, China, 2006
 
 Professional Experience
 ------
-Associate Professor, College of Electronic Engineering, National University of Defense Technology, Hefei, China, 2017 to present
-
-Assistant Professor, Division of Information Engineering, Electronic Engineering Institute, Hefei, China, 2011-2017 
-
-Visiting Associate Professor, Department of Information Technology, Uppsala University, Uppsala, Sweden, 2019.08 to 2019.10
+* Associate Professor, College of Electronic Engineering, National University of Defense Technology, Hefei, China, 2017 to present
+* Assistant Professor, Division of Information Engineering, Electronic Engineering Institute, Hefei, China, 2011-2017 
+* Visiting Associate Professor, Department of Information Technology, Uppsala University, Uppsala, Sweden, 2019.08 to 2019.10
 
 Awards
 ------
-Youth Innovation Award, National University of Defense Technology, 2018.
-
-Elected to the Young Elite Scientist Program of China in 2017.
-
-Bronze Medal, China Mathematics Olympiad, 2002.
+* Youth Innovation Award, National University of Defense Technology, 2018.
+* Elected to the Young Elite Scientist Program of China in 2017.
+* Bronze Medal, China Mathematics Olympiad, 2002.
 
 Selected Journal Publications
 ------
