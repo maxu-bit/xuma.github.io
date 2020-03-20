@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-* Member, IEEE
 * Technical Program Committee (TPC) Member of IEEE radar conference, IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM)
 * Reviewer for 
   * IEEE Signal Processing Magazine
