@@ -6,37 +6,36 @@ Bo Tang, Jun Tang. Relative entropy based waveform design for MIMO radar, in Rad
 
 Selected Journal Publications
 ------
-*	J. Liu, W. Liu, B. Tang, and D. Orlando, Persymmetric Adaptive Detection in Subspace Interference Plus Gaussian Noise, Signal Processing, 2020, 167:107316.
-*	Bo Tang, Jian Li. Spectrally Constrained MIMO Radar Waveform Design Based on Mutual Information. IEEE Transactions on Signal Processing, 2019, 67(3): 821-834.
-*	R. Lin, M. Soltanalian, B. Tang, and J. Li, Efficient Design of Binary Sequences With Low Autocorrelation Sidelobes, IEEE Transactions on Signal Processing, 2019, 67(24): 6397-6410.
-*	J. Liu, W. Liu, B. Tang, J. Zheng, and S. Xu, Distributed Target Detection Exploiting Persymmetry in Gaussian Clutter, IEEE Transactions on Signal Processing, 2019, 67(4): 1022-1033.
-*	B. Tang and J. Liang, Efficient Algorithms for Synthesizing Probing Waveforms With Desired Spectral Shapes, IEEE Transactions on Aerospace and Electronic Systems, 2019, 55(3): 1174-1189.
-*	B. Tang, J. Liu, Z. Huang, G. Wang and F. Fan, Adaptive Target Detection in Gaussian Clutter Edges, IEEE Transactions on Aerospace and Electronic Systems, 2019, to appear. 
-*	Y. Jing, J. Liang, B. Tang, and J. Li, Designing Unimodular Sequence With Low Peak of Sidelobe Level of Local Ambiguity Function, IEEE Transactions on Aerospace and Electronic Systems, 2019, 55(3): 1393-1406.
-*	Bo Tang, Yu Zhang, Jun Tang. An Efficient Minorization Maximization Approach for MIMO Radar Waveform Optimization via Relative Entropy. IEEE Transactions on Signal Processing, 2018, 66(2): 400 -411. 
-*	J. Liu, W. Liu, J. Han, B. Tang, Y. Zhao, and H. Yang, Persymmetric GLRT Detection in MIMO Radar, IEEE Transactions on Vehicular Technology, 2018, 67(12): 11913-11923.
-*	Bo Tang, Jian Li, Junli Liang. Alternating direction method of multipliers for radar waveform design in spectrally crowded environments. Signal Processing, 2018, 142:398-402.
-*	G. Yu, J. Liang, J. Li, and B. Tang, Sequence Set Design With Accurately Controlled Correlation Properties, IEEE Transactions on Aerospace and Electronic Systems, 2018, 54(6): 3032-3046.
-*	Zhou Xu, Bo Tang, Shuiying Cheng. Faint Ship Wake Detection in PolSAR Images. IEEE Geoscience and Remote Sensing Letters, 2018, 15(7): 1055-1059.
-*	Dandan Zhang, Jun Tang, Bo Tang. Nonlinear shrinkage based precision matrix estimation for space-time adaptive processing. IET Radar, Sonar & Navigation, 2017, 11(9): 1379-1387.
-*	Bo Tang, Jun Tang. Joint Design of Transmit Waveforms and Receive Filters for MIMO Radar Space Time Adaptive Processing. IEEE Transactions on Signal Processing, 2016, 64(18): 4707-4722.
-*	Bo Tang, Jun Li, Yu Zhang, Jun Tang. Design of MIMO Radar Waveform Covariance Matrix for Clutter and Jamming Suppression Based on Space Time Adaptive Processing. Signal Processing, 2016, 121: 60-69 .
-*	Bo Tang, Jun Tang, Yu Zhang. Design of MIMO Radar Waveforms for Rician Target Detection. IET Radar, Sonar & Navigation, 2016, 10(9):1583-1593. 
-*	Bo Tang, Mohammad Mahdi Naghsh, Jun Tang. Relative Entropy-based Waveform Design for MIMO Radar Detection in the Presence of Clutter and Interference. IEEE Transactions on Signal Processing, 2015, 63(14): 3783-3796. 
-*	Jun Tang, Ning Zhang, Zhikun Ma, Bo Tang. Construction of Doppler Resilient Complete Complementary Code in MIMO Radar. IEEE Transactions on Signal Processing, 2014, 62(18):4704-4712.
-*	Bo Tang, Yu Zhang, Jun Tang. Robust FMLACC Algorithm For Adaptive Clutter Suppression. IET Radar, Sonar & Navigation, 2014, 8(9):1184-1194. 
-*	Jun Tang, Jun Luo, Bo Tang, Jinsong Du. Target Model and Waveform Design in MIMO radar. Science China: Information Science, 2014, 57: 012301(12). 
-*	Bo Tang, Jun Tang, Yingning Peng. Clutter Nulling Performance of SMI in Amplitude Heterogeneous Clutter Environments. IEEE Transactions on Aerospace and Electronic systems, 2013,49(2):1366-1373.
-*	Bo Tang, Jun Tang, Yu Zhang, Zhidong Zheng. Maximum Likelihood Estimation of DOD and DOA for Bistatic MIMO Radar. Signal Processing, 2013,93:1349-1357. 
-*	Bo Tang, Yu Zhang, Jun Tang, Yingning Peng. Close Form Maximum Likelihood Covariance Matrix Estimation Under a Knowledge-Aided Constraint. IET Radar, Sonar & Navigation, 2013, 7(8):904-913. 
-*	Mojtaba Soltanalian, Bo Tang, Jian Li and Petre Stoica. Joint Design of the Receive Filter and Transmit Sequence For Active Sensing. IEEE Signal Processing Letters, 2013, 20(5):423-426.
-*	 Peilin Sun, Jun Tang, Qian He, Bo Tang, et al. Cramer-Rao bound of parameters estimation and coherent performance for next generation. IET Radar, Sonar & Navigation,2013,7(5):553-567.
-*	Xiaowei Tang, Jun Tang, Qian He, Bo Tang, et al. Cramer-Rao Bounds and coherence performance analysis for next generation radar with pulse trains. Sensors, 2013, 13(4):6347-5367. 
-*	Bo Tang, Jun Tang, Yingning Peng. Detection of heterogeneous Samples Based on Loaded Generalized Inner Product Method. Digital Signal Processing, 2012, 22(4):605-613.
-*	Bo Tang, Jun Tang, Yingning Peng. Waveform Optimization for MIMO Radar in Colored Noise: Further Results for Estimation-Oriented Criteria. IEEE Transactions on Signal Processing,  2012,60(3): 1517-1522. 
-*	Bo Tang, Jun Tang, Yingning Peng. Performance of Knowledge Aided Space Time Adaptive Processing. IET Radar, Sonar & Navigation, 2011, 5(3):331-340. 
-*	Bo Tang, Jun Tang, Yingning Peng. MIMO Radar Waveform Design in Colored Noise Based on Information Theory. IEEE Transactions on Signal Processing, 2010, 58(9):4684-4697.
-*	Bo Tang, Jun Tang, Yingning Peng. Convergence Rate of LSMI in Amplitude Heterogeneous Clutter Environment. IEEE Signal Processing Letters, 2010, 17(5):481-484. 
+*	B. Tang, J. Liu, Z. Huang, G. Wang, and F. Fan, "Adaptive Target Detection in Gaussian Clutter Edges," IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 2, pp. 1662-1673, 2020, doi: 10.1109/TAES.2019.2930019. 
+*	J. Liu, W. Liu, B. Tang, and D. Orlando, "Persymmetric adaptive detection in subspace interference plus gaussian noise," Signal Processing, vol. 167, p. 107316, 2020/02/01/ 2020, doi: https://doi.org/10.1016/j.sigpro.2019.107316.
+*	B. Tang and J. Li, "Spectrally Constrained MIMO Radar Waveform Design Based on Mutual Information," IEEE Transactions on Signal Processing, vol. 67, no. 3, pp. 821-834, 2019, doi: 10.1109/TSP.2018.2887186.
+*	R. Lin, M. Soltanalian, B. Tang, and J. Li, "Efficient Design of Binary Sequences With Low Autocorrelation Sidelobes," IEEE Transactions on Signal Processing, vol. 67, no. 24, pp. 6397-6410, 2019, doi: 10.1109/TSP.2019.2954525.
+*	J. Liu, W. Liu, B. Tang, J. Zheng, and S. Xu, "Distributed Target Detection Exploiting Persymmetry in Gaussian Clutter," IEEE Transactions on Signal Processing, vol. 67, no. 4, pp. 1022-1033, 2019.
+*	B. Tang and J. Liang, "Efficient Algorithms for Synthesizing Probing Waveforms With Desired Spectral Shapes," IEEE Transactions on Aerospace and Electronic Systems, vol. 55, no. 3, pp. 1174-1189, 2019, doi: 10.1109/TAES.2018.2876585.
+*	Y. Jing, J. Liang, B. Tang, and J. Li, "Designing Unimodular Sequence With Low Peak of Sidelobe Level of Local Ambiguity Function," IEEE Transactions on Aerospace and Electronic Systems, vol. 55, no. 3, pp. 1393-1406, 2019, doi: 10.1109/TAES.2018.2870459.
+*	B. Tang, Y. Zhang, and J. Tang, "An Efficient Minorization Maximization Approach for MIMO Radar Waveform Optimization via Relative Entropy," IEEE Transactions on Signal Processing, vol. 66, no. 2, pp. 400-411, 2018, doi: 10.1109/TSP.2017.2771726.
+*	J. Liu, W. Liu, J. Han, B. Tang, Y. Zhao, and H. Yang, "Persymmetric GLRT Detection in MIMO Radar," IEEE Transactions on Vehicular Technology, vol. 67, no. 12, pp. 11913-11923, 2018, doi: 10.1109/TVT.2018.2877265.
+*	B. Tang, J. Li, and J. Liang, "Alternating direction method of multipliers for radar waveform design in spectrally crowded environments," Signal Processing, vol. 142, pp. 398-402, 2018, doi: https://doi.org/10.1016/j.sigpro.2017.08.003.
+*	G. Yu, J. Liang, J. Li, and B. Tang, "Sequence Set Design With Accurately Controlled Correlation Properties," IEEE Transactions on Aerospace and Electronic Systems, vol. 54, no. 6, pp. 3032-3046, 2018, doi: 10.1109/TAES.2018.2836778.
+*	Z. Xu, B. Tang, and S. Cheng, "Faint Ship Wake Detection in PolSAR Images," IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 7, pp. 1055-1059, 2018, doi: 10.1109/LGRS.2018.2823007.
+*	D. Zhang, J. Tang, and B. Tang, "Non-linear shrinkage-based precision matrix estimation for space–time adaptive processing," IET Radar, Sonar & Navigation, vol. 11, no. 9, pp. 1379-1387, 2017.
+*	B. Tang and J. Tang, "Joint Design of Transmit Waveforms and Receive Filters for MIMO Radar Space-Time Adaptive Processing," IEEE Transactions on Signal Processing, vol. 64, no. 18, pp. 4707-4722, 2016, doi: 10.1109/TSP.2016.2569431.
+*	B. Tang, J. Li, Y. Zhang, and J. Tang, "Design of MIMO radar waveform covariance matrix for Clutter and Jamming suppression based on space time adaptive processing," Signal Processing, vol. 121, pp. 60-69, 4// 2016, doi: http://dx.doi.org/10.1016/j.sigpro.2015.10.033.
+*	B. Tang, J. Tang, and Y. Zhang, "Design of multiple-input–multiple-output radar waveforms for Rician target detection," IET Radar, Sonar & Navigation, vol. 10, no. 9, pp. 1583-1593, 2016.
+*	B. Tang, M. M. Naghsh, and J. Tang, "Relative Entropy-Based Waveform Design for MIMO Radar Detection in the Presence of Clutter and Interference," IEEE Transactions on Signal Processing, vol. 63, no. 14, pp. 3783-3796, 2015, doi: 10.1109/TSP.2015.2423257.
+*	J. Tang, N. Zhang, Z. Ma, and B. Tang, "Construction of Doppler Resilient Complete Complementary Code in MIMO Radar," IEEE Transactions on Signal Processing, vol. 62, no. 18, pp. 4704-4712, 2014.
+*	B. Tang, Y. Zhang, and J. Tang, "Robust fast maximum likelihood with assumed clutter covariance algorithm for adaptive clutter suppression," IET Radar, Sonar & Navigation, vol. 8, no. 9, pp. 1184-1194, 2014, doi: 10.1049/iet-rsn.2014.0017.
+*	J. Tang, J. Luo, B. Tang, and J. Du, "Target models and waveform design for detection in MIMO radar," Science China Information Sciences, vol. 57, no. 1, pp. 1-12, 2014/01/01 2014, doi: 10.1007/s11432-012-4719-z.
+*	B. Tang, J. Tang, and Y. Peng, "Clutter Nulling Performance of SMI in Amplitude Heterogeneous Clutter Environments," IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 2, pp. 1366-1373, 2013.
+*	B. Tang, J. Tang, Y. Zhang, and Z. Zheng, "Maximum likelihood estimation of DOD and DOA for bistatic MIMO radar," Signal Processing, vol. 93, no. 5, pp. 1349-1357, 2013.
+*	B. Tang, Y. Zhang, J. Tang, and Y. Peng, "Close form maximum likelihood covariance matrix estimation under a knowledge-aided constraint," IET Radar, Sonar & Navigation, vol. 7, no. 8, pp. 904-913, 2013.
+*	M. Soltanalian, B. Tang, J. Li, and P. Stoica, "Joint Design of the Receive Filter and Transmit Sequence for Active Sensing," IEEE Signal Processing Letters, vol. 20, no. 5, pp. 423-426, 2013, doi: 10.1109/lsp.2013.2250279.
+*	P. Sun, J. Tang, Q. He, B. Tang, et al. "Cramer-Rao bound of parameters estimation and coherent performance for next generation radar". IET Radar, Sonar & Navigation, vol. 7, no. 5, pp. 553-567, 2013, doi: https://doi.org/10.1049/iet-rsn.2012.0139.
+*	B. Tang, J. Tang, and Y. Peng, "Detection of heterogeneous samples based on loaded generalized inner product method," Digital Signal Processing, vol. 22, no. 4, pp. 605-613, 2012.
+*	B. Tang, J. Tang, and Y. Peng, "Waveform Optimization for MIMO Radar in Colored Noise: Further Results for Estimation-Oriented Criteria," IEEE Transactions on Signal Processing, vol. 60, no. 3, pp. 1517-1522, 2012.
+*	B. Tang, J. Tang, and Y. Peng, "Performance of knowledge aided space time adaptive processing," IET Radar, Sonar & Navigation, vol. 5, no. 3, pp. 331-340, 2011. 
+*	B. Tang, J. Tang, and Y. Peng, "MIMO Radar Waveform Design in Colored Noise Based on Information Theory," IEEE Transactions on Signal Processing, vol. 58, no. 9, pp. 4684-4697, 2010. [Online]. Available: 10.1109/TSP.2010.2050885.
+*	B. Tang, J. Tang, and Y. Peng, "Convergence Rate of LSMI in Amplitude Heterogeneous Clutter Environment," IEEE Signal Processing Letters, vol. 17, no. 5, pp. 481-484, 2010. 
 
 
 Conference Publications
