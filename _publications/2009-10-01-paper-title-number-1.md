@@ -6,6 +6,32 @@ Bo Tang, Jun Tang. Relative entropy based waveform design for MIMO radar, in Rad
 
 Selected Journal Publications
 ------
+* J. Liang, T. Wang, W. Liu, H. C. So, Y. Huang, and B. Tang, "Constant Modulus Waveform Estimation and Interference Suppression via Two-Stage Fractional Program-Based Beamforming," IEEE Transactions on Signal Processing, vol. 72, pp. 2348-2363, 2024, doi: 10.1109/TSP.2024.3392363.
+* D. Li, B. Tang, X. Wang, and L. Xue, "Information Theory Based Waveform Design for RIS-aided Multifunction RF Systems," Digital Signal Processing, p. 104375, 2024/01/03/ 2024, doi: https://doi.org/10.1016/j.dsp.2023.104375.
+* Z. Xu, B. Tang, Z. Xie, and X. Huang, "Probabilistically Robust Design of Radar Waveform-Filter for Extended Target Detection in the Presence of Clutter," IEEE Transactions on Signal Processing, vol. 71, pp. 3267-3280, 2023, doi: 10.1109/TSP.2023.3307874.
+* W. Wu, B. Tang, J. Xiao, and P. Huang, "Adaptive Design for Colocated MIMO Radar Beamspace Localization," IEEE Transactions on Radar Systems, vol. 1, pp. 463-467, 2023, doi: 10.1109/TRS.2023.3311765.
+* W. Wu, B. Tang, and X. Wang, "Constant-Modulus Waveform Design for Dual-Function Radar-Communication Systems in the Presence of Clutter," IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 4, pp. 4005-4017, 2023, doi: 10.1109/TAES.2023.3234927.
+* W. Wu, B. Tang, and R. Tao, "Performance Bound Optimization for MIMO Radar Direction Finding with MUSIC," IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 6, pp. 8845-8858, 2023, doi: 10.1109/TAES.2023.3310973.
+* W. Wu and B. Tang, "Waveform design for higher-resolution localization with MIMO radar," Signal Processing, vol. 209, p. 108999, 2023/08/01/ 2023, doi: https://doi.org/10.1016/j.sigpro.2023.108999.
+* X. Wang, B. Tang, W. Wu, and D. Li, "Relative Entropy-Based Waveform Optimization for Rician Target Detection with Dual-Function Radar Communication Systems," IEEE Sensors Journal, vol. 23, no. 10, pp. 10718-10730, 2023, doi: 10.1109/JSEN.2023.3264458.
+* X. Wang, B. Tang, D. Li, and W. Wu, "Mutual information‐based constant‐modulus waveform design for multiple‐input‐multiple‐output radar in spectrally crowded environment," IET Radar, Sonar & Navigation, vol. 17, no. 4, pp. 719-731, 2023.
+* D. Li, B. Tang, and L. Xue, "Multi-Spectrally Constrained Low-PAPR Waveform Optimization for MIMO Radar Space-Time Adaptive Processing," IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 5, pp. 5097-5110, 2023, doi: 10.1109/TAES.2023.3247976.
+* B. Guo, J. Liang, G. Wang, B. Tang, and H. C. So, "Bistatic MIMO DFRC System Waveform Design via Fractional Programming," IEEE Transactions on Signal Processing, vol. 71, pp. 1952-1967, 2023, doi: 10.1109/TSP.2023.3279900.
+* B. Guo, J. Liang, B. Tang, L. Li, and H. C. So, "Bistatic MIMO DFRC System Waveform Design via Symbol Distance/Direction Discrimination," IEEE Transactions on Signal Processing, no. 71, pp. 3996-4010, 2023, doi: 10.1109/TSP.2023.3322815.
+* X. Wang, B. Tang, and M. Zhang, "Optimisation of practically constrained waveforms for Rician target detection with multiple-input-multiple-output radar," IET Radar, Sonar & Navigation, vol. 16, no. 7, pp. 1116-1130, 2022, doi: https://doi.org/10.1049/rsn2.12247.
+* B. Tang and P. Stoica, "MIMO Multifunction RF Systems: Detection Performance and Waveform Design," IEEE Transactions on Signal Processing, vol. 70, pp. 4381-4394, 2022, doi: 10.1109/TSP.2022.3202315.
+* Z. Li, B. Tang, J. Shi, and Q. Zhou, "Maximin Joint Design of Transmit Waveform and Receive Filter Bank for MIMO-STAP Radar Under Target Uncertainties," IEEE Signal Processing Letters, vol. 29, pp. 179-183, 2022, doi: 10.1109/LSP.2021.3131092.
+* Z. Huang, B. Tang, C. Huang, and L. Qin, "Direct transmit waveform design to match a desired beampattern under the constant modulus constraint," Digital Signal Processing, vol. 126, p. 103486, 2022.
+* Z. Huang, Y. Shi, B. Tang, and J. Zhang, "Unimodular multiple-input-multiple-output radar wave-form design with desired correlation properties," IET Radar, Sonar & Navigation, vol. 16, no. 3, pp. 412-425, 2022, doi: https://doi.org/10.1049/rsn2.12192.
+* Z. Chen, J. Liang, T. Wang, B. Tang, and H. C. So, "Generalized MBI Algorithm for Designing Sequence Set and Mismatched Filter Bank With Ambiguity Function Constraints," IEEE Transactions on Signal Processing, vol. 70, pp. 2918-2933, 2022, doi: 10.1109/TSP.2022.3181346.
+* J. Zhang, Q. Su, B. Tang, C. Wang, and Y. Li, "DPSNet: Multitask Learning Using Geometry Reasoning for Scene Depth and Semantics," IEEE Transactions on Neural Networks and Learning Systems, pp. 1-12, 2021, doi: 10.1109/TNNLS.2021.3107362.
+* B. Tang and P. Stoica, "Information-theoretic Waveform Design for MIMO Radar Detection in Range-Spread Clutter," Signal Processing, vol. 182, p. 107961, 2021.
+* B. Tang, J. Liu, H. Wang, and Y. Hu, "Constrained Radar Waveform Design for Range Profiling," IEEE Transactions on Signal Processing, vol. 69, pp. 1924-1937, 2021, doi: 10.1109/TSP.2021.3065830.
+* Z. Huang, B. Tang, H. Wang, and L. Qin, "Wideband MIMO Radar Transmit Beampattern Synthesis via Majorization–Minimization," Circuits, Systems, and Signal Processing, 2021/05/07 2021, doi: 10.1007/s00034-021-01735-4.
+* Z. Huang, Y. Shi, B. Tang, and J. Zhang, "Unimodular multiple‐input‐multiple‐output radar wave‐form design with desired correlation properties," IET Radar, Sonar & Navigation, 2021.
+* L. Fan, B. Tang, and Q. Jiang, "Fast secrecy rate optimization for MIMO wiretap channels in the presence of a multiple-antenna eavesdropper," Signal Processing, vol. 178, p. 107803, 2021/01/01/ 2021, doi: https://doi.org/10.1016/j.sigpro.2020.107803.
+* A. Bose, B. Tang, M. Soltanalian, and J. Li, "Mutual Interference Mitigation for Multiple Connected Automotive Radar Systems," IEEE Transactions on Vehicular Technology, vol. 70, no. 10, pp. 11062-11066, 2021
+* B. Tang, J. Tuck, and P. Stoica, "Polyphase Waveform Design for MIMO Radar Space Time Adaptive Processing," IEEE Transactions on Signal Processing, vol. 68, pp. 2143-2154, 2020.
 *	B. Tang, J. Liu, Z. Huang, G. Wang, and F. Fan, "Adaptive Target Detection in Gaussian Clutter Edges," IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 2, pp. 1662-1673, 2020, doi: 10.1109/TAES.2019.2930019. 
 *	J. Liu, W. Liu, B. Tang, and D. Orlando, "Persymmetric adaptive detection in subspace interference plus gaussian noise," Signal Processing, vol. 167, p. 107316, 2020/02/01/ 2020, doi: https://doi.org/10.1016/j.sigpro.2019.107316.
 *	B. Tang and J. Li, "Spectrally Constrained MIMO Radar Waveform Design Based on Mutual Information," IEEE Transactions on Signal Processing, vol. 67, no. 3, pp. 821-834, 2019, doi: 10.1109/TSP.2018.2887186.
@@ -40,6 +66,10 @@ Selected Journal Publications
 
 Conference Publications
 ------
+*D. Li, B. Tang, and L. Xue, "Co-Design for MIMO Radar and MIMO Communication Aided by Reconfigurable Intelligent Surface," in ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 4-10 June 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10095160. 
+* X. Wang, B. Tang, and M. Zhang, "A Probabilistic Model-Based Robust Waveform Design for MIMO Radar Detection," presented at the 2021 CIE International Conference on Radar (Radar), 15-19 Dec. 2021.
+* B. Tang, Z. Huang, L. Qin, and H. Wang, "Fundamental Limits on Detection With a Dual-function Radar Communication System," presented at the 2021 CIE International Conference on Radar (Radar), 15-19 Dec. 2021.
+*  B. Tang, H. Wang, L. Qin, and L. Li, "Waveform Design for Dual-function MIMO Radar-communication Systems," in 2020 IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM), 8-11 June 2020 2020, pp. 1-5, doi: 10.1109/SAM48682.2020.9104378. 
 *	Bo Tang, Wenjie Huang, Jian Li. Slow-Time Coding For Mutual Interference Mitigation. Proceedings of 43rd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018, Calgary, Canada.
 *	Bo Tang, Ning Zhang, Shuo Zhang, Zhongrui Huang. MMSE-Based Waveform Design For Distributed MIMO Radar In Spectrally Crowded Environments. Proceedings of IET international radar conference, 2018, Nanjing.
 *	Zhongrui Huang, Bo Tang, Shuo Zhang. Sequential Optimization of Orthogonal Waveform for MIMO Radar. Proceedings of IET international radar conference, 2018, Nanjing.
