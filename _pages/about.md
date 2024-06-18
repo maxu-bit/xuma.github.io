@@ -16,7 +16,7 @@ Bo Tang was born in Linchuan, Jiangxi Province, China, in 1985. He received the 
 engineering from Tsinghua University, Beijing, China, in 2006 and 2011, respectively. From July 2011 to June 2017, he was
 with Electronic Engineering Institute, as a lecturer. Since July 2017, he has been with the College of Electronic Engineering,
 National University of Defense Technology, China, where he is currently a Full Professor. His research interests mainly include
-array signal processing, waveform design and Multiple-input-multiple-output(MIMO) systems. He was selected as the “Young Elite Scientists Sponsorship Program” by China Association for Science and Technology (CAST) and sponsored by the Anhui Provincial Natural Science Foundation for Distinguished Young Scholars as well as the Young Cheung Kong Scholars Program. He was an Associate Editor for the IEEE Transactions on Signal Processing from 2020 to 2024.
+array signal processing, waveform design and multiple-input-multiple-output(MIMO) systems. He was selected as the “Young Elite Scientists Sponsorship Program” by China Association for Science and Technology (CAST) and sponsored by the Anhui Provincial Natural Science Foundation for Distinguished Young Scholars as well as the Young Cheung Kong Scholars Program. He was an Associate Editor for the IEEE Transactions on Signal Processing from 2020 to 2024.
 
 Education
 ------
