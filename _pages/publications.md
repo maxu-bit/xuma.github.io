@@ -1,3 +1,5 @@
+**For further information, please clik on the [CV](https://maxu-bit.github.io/xuma.github.io/files/CV.pdf)**
+------
 ---
 layout: archive
 title: "Publications"
@@ -6,8 +8,7 @@ author_profile: true
 ---
 
   
-**For further information, please clik on the [CV](https://maxu-bit.github.io/xuma.github.io/files/CV.pdf)**
-------
+
   
 
 Book
