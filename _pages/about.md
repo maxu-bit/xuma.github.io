@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-2015/11-2015/12, Interuniversity Microelectronics Centre, Belgium, Advanced study in “IMEC Training on CMOS Process Technology and IC Modeling” (Serve as Training Group Leader).
-2005/09-2009/08, University of Delaware, USA, Ph.D. in Electrical and Computer Engineering. Advisor: Professor Gonzalo R. Arce (IEEE/OSA/SPIE Fellow, Charles Black Evans Professor).
-2001/09-2005/07: Tsinghua University, China, B.S. in Electrical Engineering.
+* 2015/11-2015/12, Interuniversity Microelectronics Centre, Belgium, Advanced study in “IMEC Training on CMOS Process Technology and IC Modeling” (Serve as Training Group Leader).
+* 2005/09-2009/08, University of Delaware, USA, Ph.D. in Electrical and Computer Engineering. Advisor: Professor Gonzalo R. Arce (IEEE/OSA/SPIE Fellow, Charles Black Evans Professor).
+* 2001/09-2005/07: Tsinghua University, China, B.S. in Electrical Engineering.
 
 Professional Experiences
 ------
