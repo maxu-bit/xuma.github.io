@@ -14,8 +14,8 @@ Selected Journal Publications
 * Shengen Zhang, **Xu Ma***, Chaojun Huang, Fuli Wang, and Gonzalo R. Arce, “Model-driven optical proximity correction via hypergraph convolutional neural networks and its experimental demonstration,” Optics and Laser Technology, 183, 112199 (2025).
 * Chaojun Huang, **Xu Ma***, Shengen Zhang, Mu Lin, Néstor Porras-Díaz, and Gonzalo R. Arce, “Block-based inverse lithography technology with adaptive level-set algorithm,” Optics and Laser Technology, 182, 112211 (2025).
 * Ziqi Li, Lisong Dong, **Xu Ma**, et. al, “Fast source mask co-optimization method for high-NA EUV lithography,” Opto-Electronic Advances 7(4), 44-54 (2024).
-* Wensheng Chen, Xu Ma*, and Shengen Zhang, “Bandwidth-aware fast inverse lithography technology using Nesterov accelerated gradient,” Optics Express 32(24), 42639-42651 (2024).
-* Shengen Zhang, Xu Ma*, Gonzalo R. Arce, “Robust source and polarization joint optimization for thick-mask lithography imaging,” Journal of Micro/Nanopatterning, Materials, and Metrology 23(4), 043201 (2024).
+* Wensheng Chen, **Xu Ma***, and Shengen Zhang, “Bandwidth-aware fast inverse lithography technology using Nesterov accelerated gradient,” Optics Express 32(24), 42639-42651 (2024).
+* Shengen Zhang, **Xu Ma***, Gonzalo R. Arce, “Robust source and polarization joint optimization for thick-mask lithography imaging,” Journal of Micro/Nanopatterning, Materials, and Metrology 23(4), 043201 (2024).
 * Jianwen Meng, Wenyi Ren*, Ruoning Yu, **Xu Ma**, et. al, “Learning based polarization image fusion under an alternative paradigm,” Optics and Laser Technology, 168, 109969 (2024).
 * Hantang Chen, **Xu Ma***, Jihui Wang, et. al, “Sparse-angle optical projection tomography based on multi-layer sparsity and deep image priors,” Applied Optics, 63, 5137-5143 (2024).
 * Jingwen Lei, **Xu Ma***, and Jun Ke, “Freeform-surface-based optical design of a broadband compressive spectral imager with co-aperture coding,” Applied Optics. 63, 6165-6172 (2024).
