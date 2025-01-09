@@ -15,7 +15,7 @@ Book
 -----
 **Xu Ma** and Gonzalo R. Arce, Computational Lithography, Wiley & Sons, 2010.
 
-Selected Journal Publications
+Journal Papers
 ------
 * Shengen Zhang, **Xu Ma***, Chaojun Huang, Fuli Wang, and Gonzalo R. Arce, “Model-driven optical proximity correction via hypergraph convolutional neural networks and its experimental demonstration,” Optics and Laser Technology, 183, 112199 (2025).
 * Chaojun Huang, **Xu Ma***, Shengen Zhang, Mu Lin, Néstor Porras-Díaz, and Gonzalo R. Arce, “Block-based inverse lithography technology with adaptive level-set algorithm,” Optics and Laser Technology, 182, 112211 (2025).
@@ -122,7 +122,7 @@ Selected Journal Publications
 * **Xu Ma*** and Gonzalo R. Arce, “Binary mask optimization for inverse lithography with partially coherent illumination,” Journal of the Optical Society of America A 25(12), 2960-2970 (2008).
 * **Xu Ma*** and Gonzalo R. Arce*, “Generalized inverse lithography methods for phase-shifting mask design,” Optics Express 15(23), 15066-15079 (2007).
 
-Conference Publications
+Conference Papers
 ------
 * Bingyang Wang and **Xu Ma***, “Advanced Computational Lithography based on Information Theory,” Proc. SPIE 13423,1342314 (2024).
 * Xin Sun, Jun Ke*, and **Xu Ma***, “Thermal Microscopic Imaging based on Diffusion Models for Super resolution Inspection,” Proc. SPIE 13423,134231E (2024).
