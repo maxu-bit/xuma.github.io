@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   
-**For further information, please clik on the [CV](https://wmmlm.github.io/xuma.github.io//files/CV.pdf](https://maxu-bit.github.io/xuma.github.io/files/CV.pdf)**
+**For further information, please clik on the **[CV](https://maxu-bit.github.io/xuma.github.io/files/CV.pdf)**
 ------
   
 
