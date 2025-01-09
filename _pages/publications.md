@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+  
+**For further information, please clik on the [CV](https://wmmlm.github.io/xuma.github.io//files/CV.pdf)**
+------
+  
+
 Book
 -----
 **Xu Ma** and Gonzalo R. Arce, Computational Lithography, Wiley & Sons, 2010.
