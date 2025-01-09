@@ -7,7 +7,7 @@ author_profile: true
 
 Book Chapters
 -----
-**Xu Ma** and Gonzalo R. Arce, Computational Lithography, Wiley & Sons, 2010.
+*Xu Ma* and Gonzalo R. Arce, Computational Lithography, Wiley & Sons, 2010.
 
 Selected Journal Publications
 ------
