@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+**For further information, please clik on the [CV](https://wmmlm.github.io/xuma.github.io//files/CV.pdf)**
 Education
 ------
 * 2015/11-2015/12, Interuniversity Microelectronics Centre, Belgium, Advanced study in “IMEC Training on CMOS Process Technology and IC Modeling” (Serve as Training Group Leader).
