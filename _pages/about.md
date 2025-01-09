@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-  
 **For further information, please clik on the [CV](https://wmmlm.github.io/xuma.github.io//files/CV.pdf)**
+------
+  
 
 Education
 ------
