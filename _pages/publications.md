@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**For further information, please clik on the [CV](https://maxu-bit.github.io/xuma.github.io/files/CV.pdf)**
+**For further information, please clik on the [CV](https://maxu-bit.github.io/xuma.github.io/files/CV_submit_20250108.pdf)**
 ------
   
 
